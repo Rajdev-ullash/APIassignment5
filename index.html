@@ -113,6 +113,7 @@
                         document.getElementById('food-detailsimages').setAttribute('src', data.meals[0].strMealThumb);
                         const integreant = document.getElementById('show ingreants');
                         integreant.innerHTML = `
+                        <h2>Integreants</h2>
                         <li>${data.meals[0].strIngredient1}</li>
                         <li>${data.meals[0].strIngredient2}</li>
                         <li>${data.meals[0].strIngredient3}</li>
