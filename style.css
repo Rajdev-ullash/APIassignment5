@@ -1,0 +1,17 @@
+#show-details{
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+#show-details img{
+    width: 300px;
+}
+ul{
+    list-style: none;
+}
+.navmenu{
+    margin-right: 120px;
+}
+.navlogo{
+    margin-left: 90px;
+}
